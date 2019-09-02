@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "034af2224ab98e0e4ea446a1278dc141",
+    "revision": "a4a48591cc11150e3aca1ac9f8d995a5",
     "url": "/joyeux-anniversaire-mila/index.html"
   },
   {
