@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/joyeux-anniversaire-mila/precache-manifest.8b5aaa4af9fe14eda050480ae05898d1.js"
+  "/joyeux-anniversaire-mila/precache-manifest.810233883b63ae761f6ace8cee30c9f8.js"
 );
 
 self.addEventListener('message', (event) => {

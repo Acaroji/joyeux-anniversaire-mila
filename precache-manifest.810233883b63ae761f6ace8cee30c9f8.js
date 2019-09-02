@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14ea7e71c728a9585181c3131a6edf61",
+    "revision": "40b6eebb9b76dc783381a8a5acea980a",
     "url": "/joyeux-anniversaire-mila/index.html"
   },
   {
-    "revision": "10521cc83511764cbe79",
+    "revision": "837d1f022431f7ec4450",
     "url": "/joyeux-anniversaire-mila/static/css/main.4604a183.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/joyeux-anniversaire-mila/static/js/2.d2793abb.chunk.js"
   },
   {
-    "revision": "10521cc83511764cbe79",
-    "url": "/joyeux-anniversaire-mila/static/js/main.90c44665.chunk.js"
+    "revision": "837d1f022431f7ec4450",
+    "url": "/joyeux-anniversaire-mila/static/js/main.7d109161.chunk.js"
   },
   {
     "revision": "520c63b146f16c3fc890",
