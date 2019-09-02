@@ -2,7 +2,7 @@
   "name": "joyeux-anniversaire",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Acaroji.github.io/joyeux-anniversaire-mila",
+  "homepage": "https://Acaroji.github.io/joyeux-anniversaire-mila",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
